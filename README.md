@@ -2,11 +2,11 @@
 
 **EVTECH: The Path of Innovation.**
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
-        <img src="https://evtech.org.in/logo.png" alt="EVTECH & GROUPS Logo">
-        <img src="https://evit.org.in/logo.png" alt="EVIT Logo">
-        <img src="https://evmedia.org.in/icon-512.png" alt="EVMEDIA Logo">
-        <img src="https://evtechplays.com/logo.png" alt="EVTECH Plays Logo">
-    </div>
+        <img src="https://evtech.org.in/logo.png" alt="EVTECH & GROUPS Logo" height="200px" width="200px">
+        <img src="https://evit.org.in/icon.svg" alt="EVIT Logo" height="200px" width="200px">
+        <img src="https://evmedia.org.in/icon-512.png" alt="EVMEDIA Logo" height="200px" width="200px">
+        <img src="https://evtechplays.com/logo.png" alt="EVTECH Plays Logo" height="200px" width="200px">
+</div>
 
 EVTECH & GROUPS is a technology ecosystem founded by **EVHEMANTH SAI**, focused on building future-ready platforms across artificial intelligence, software development, education technology, digital media, gaming, automation, and secure digital infrastructure.
 
